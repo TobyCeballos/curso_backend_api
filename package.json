@@ -1,0 +1,25 @@
+{
+  "name": "curso-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contenedor.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobyCeballos/CURSO-BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobyCeballos/CURSO-BACKEND/issues"
+  },
+  "homepage": "https://github.com/TobyCeballos/CURSO-BACKEND#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
